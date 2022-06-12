@@ -1,0 +1,2 @@
+model_checkpoint_path: "dense_autoencoder.ckpt"
+all_model_checkpoint_paths: "dense_autoencoder.ckpt"
