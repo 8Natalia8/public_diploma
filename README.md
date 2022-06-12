@@ -21,7 +21,7 @@
 3. Trained convolutional NN of model is in mnist_default_model/
 4. Trained autoencoder of dense architecture is located in dense_autoencoder_256_128_64/
 5. Trained autoencoder of Convolutional architecture is located in autoenc_clean_clean/
-6. Files Visualize.ipynb and visualize for presentation.ipynb contain showing some images/diagrams
+6. Files Visualize.ipynb and visualize for presentation.ipynb contain showing some images/diagrams.
 
-*To make sure please see the code in test1.ipynb for convolutional DEFAULT model and in test2.ipynb for dense model.*
+*To make sure please see the code in test1.ipynb for convolutional DEFAULT model and in test2.ipynb for dense DEFAULT model.*
 *The code is not very good&beatuful, so it planned to be improved in some time.*
