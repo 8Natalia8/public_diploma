@@ -9,7 +9,7 @@
 5. Обученный автоэнкодер (автокодировщик) Сверточной арх-ры лежит в папке autoenc_clean_clean/
 6. Файлы Visualize.ipynb и visualize for presentation.ipynb содержат в себе отрисовку различных рисунков/диаграмм.
 
-*Чтобы все проверить самому,смотрите код в файле test1.ipynb, где эксперименты проводятся для сверточной целевой НН и файл test2 для экспериментов с полносвязной целевой НН*
+*Чтобы все проверить самому,смотрите код в файле test1.ipynb, где эксперименты проводятся для сверточной целевой НН и в файле test2.ipynb для экспериментов с полносвязной целевой НН.*
 *Код не оптимизирован, постепенно будет корректироваться в этом направлении.*
 
 ---
@@ -23,5 +23,5 @@
 5. Trained autoencoder of Convolutional architecture is located in autoenc_clean_clean/
 6. Files Visualize.ipynb and visualize for presentation.ipynb contain showing some images/diagrams
 
-*To make sure please see the code in test1.ipynb for convolutional DEFAULT model and in test2 for dense model.*
+*To make sure please see the code in test1.ipynb for convolutional DEFAULT model and in test2.ipynb for dense model.*
 *The code is not very good&beatuful, so it planned to be improved in some time.*
