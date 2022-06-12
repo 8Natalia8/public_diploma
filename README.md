@@ -24,4 +24,4 @@
 6. Files Visualize.ipynb and visualize for presentation.ipynb contain showing some images/diagrams.
 
 *To make sure please see the code in test1.ipynb for convolutional DEFAULT model and in test2.ipynb for dense DEFAULT model.*
-*The code is not very good&beatuful, so it planned to be improved in some time.*
+*The code is not very good&beatiful, so it planned to be improved in some time.*
